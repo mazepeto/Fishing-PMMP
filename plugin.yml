@@ -1,0 +1,5 @@
+name: Fishing
+version: 0.0.1
+main: cyphrex\Fishing\Main
+api: 3.13.0
+author: cyphr3x
